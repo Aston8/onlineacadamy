@@ -43,7 +43,7 @@ function page() {
                     >
                       Try now →
                     </CardItem>
-                    <Link href={"/sign-up"}>
+                    <Link href={"/signup"}>
                         <CardItem 
                          translateZ={20}
                          as="button"
